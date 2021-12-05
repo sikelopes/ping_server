@@ -1,0 +1,18 @@
+{
+  "name": "server-ping",
+  "version": "1.0.0",
+  "description": "Digunakan hanya untuk ping ke beberapa server",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "sikelopes <sikelopes@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  },
+  "devDependencies": {
+    "electron": "^16.0.4",
+    "electron-packager": "^15.4.0"
+  }
+}
